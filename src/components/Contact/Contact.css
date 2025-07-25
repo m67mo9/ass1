@@ -1,0 +1,9 @@
+.contact {
+  background-color: #57a092;
+}
+
+form label {
+  font-weight: bold;
+  color: black;
+  margin-bottom: 7px;
+}

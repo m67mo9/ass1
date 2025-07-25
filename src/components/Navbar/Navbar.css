@@ -1,0 +1,10 @@
+
+.navbar {
+  background-color: #2C3E50;
+}
+.myActive {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  background-color: #1ABC9C;
+}

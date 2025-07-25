@@ -1,0 +1,12 @@
+
+.upper-footer {
+  height: 300px;
+  background-color: #2C3E50;
+  height: fit-content;
+  padding: 40px 0;
+}
+
+i {
+  border: 1px solid white;
+  border-radius: 50%;
+}
