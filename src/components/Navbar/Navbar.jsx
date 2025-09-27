@@ -22,9 +22,9 @@ export default function Navbar() {
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
             <li className="nav-item">
               <NavLink
-                className={({ isActive }) =>
-                  isActive
-                    ? 'nav-link text-white fs-4 fw-bold me-4 px-2 rounded-3 myActive '
+                className={(asd) =>
+                  asd.isActive
+                    ? 'nav-link text-white fs-4 fw-bold me-4 px-2 rounded-3 myActive'
                     : "nav-link text-white fs-4 fw-bold me-4 px-2 rounded-3"
                 }
                 aria-current="page"
